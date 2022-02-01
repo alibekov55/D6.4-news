@@ -39,7 +39,7 @@ Post
                     {{ post.category.name }}
                 </td>
                 <td>
-                    {{ post.time }}
+                    {{ post.time|date:'d M Y h:m:s' }}
                 </td>
             </tr>
         {% endfor %}

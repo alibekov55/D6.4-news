@@ -14,7 +14,8 @@ class Post(models.Model):
     )
     description = models.TextField()
 
-    time = models.TimeField(auto_now=False, auto_now_add=False)
+    time = models.DateTimeField(auto_now=True, auto_now_add=False)
+    #time = models.TimeField(auto_now=False, auto_now_add=False)
     """quantity = models.IntegerField(
        validators=[MinValueValidator(0)],
     )"""
