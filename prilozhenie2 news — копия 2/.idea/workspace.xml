@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76354298-9abd-4ae6-9ca1-d5daca364cf8" name="Changes" comment="" />
+    <list default="true" id="76354298-9abd-4ae6-9ca1-d5daca364cf8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simpleapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/simpleapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simpleapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/simpleapp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/simpleapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/simpleapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/templates/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/templates/products.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
